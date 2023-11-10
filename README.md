@@ -1,4 +1,4 @@
-# mfile - The Marvelous File Creator 🚀💻
+# mfile ✨💻
 
 Tired of the Windows way of creating files? 🥱💤 Introducing **mfile** - where creating files is as easy as breathing!
 
