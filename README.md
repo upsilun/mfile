@@ -22,7 +22,7 @@ Windows wants you to right-click and go through a maze of options just to create
 
 ## Contributing 🤝
 
-Contributions are more than welcome! Just don't suggest adding a GUI; we're allergic to it. 🤢
+Contributions are more than welcome! Just don't suggest adding a GUI; i'm allergic to it. 🤢
 
 ## License 📜
 
