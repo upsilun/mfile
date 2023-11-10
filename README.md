@@ -5,6 +5,7 @@ Tired of the Windows way of creating files? 🥱💤 Introducing **mfile** - whe
 ## What's the Deal?
 
 Windows wants you to right-click and go through a maze of options just to create a simple file. 🤷‍♂️
+Or even using very complicated command-lines to just make a simple file. 🥸
 
 **mfile** laughs at that inefficiency! With a single command, you can create a file and feel like a coding wizard. ✨
 
@@ -17,7 +18,7 @@ Windows wants you to right-click and go through a maze of options just to create
 ## Getting Started 🏁
 
 1. Open your terminal.
-2. Type the magical incantation: `mfile MyAwesomeFile.txt`
+2. Type the magical command: `mfile MyAwesomeFile.txt`
 3. Revel in the simplicity.
 
 ## Contributing 🤝
