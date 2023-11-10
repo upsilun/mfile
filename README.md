@@ -29,3 +29,8 @@ Contributions are more than welcome! Just don't suggest adding a GUI; i'm allerg
 This project is licensed under the **MIT License** because who needs proprietary licenses anyway? 🤓
 
 Feel free to fork, clone, and have fun creating files like a boss! 💼✨
+
+## Note ✨
+
+This project was born out of boredom, but I use these commands seriously as alternatives to the usual Windows CMD ones 😀.
+
